@@ -54,7 +54,6 @@ public class Manager {
         var number2 = scanner.nextInt();
         if (number2 == 1) {
             updateUserName(user);
-            System.out.println(CHANGES);
         } else if (number2 == 2) {
             updateUserPosition(user);
         }
