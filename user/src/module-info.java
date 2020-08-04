@@ -1,4 +1,4 @@
 module user {
     exports com.hw12.user;
-    exports com.hw12.manager;
+    exports com.hw12.service;
 }
